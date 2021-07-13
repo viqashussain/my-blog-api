@@ -1,0 +1,15 @@
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.EntityFramework\bin\Release\netcoreapp2.2\MyBlog.EntityFramework.deps.json
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.EntityFramework\bin\Release\netcoreapp2.2\MyBlog.EntityFramework.runtimeconfig.json
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.EntityFramework\bin\Release\netcoreapp2.2\MyBlog.EntityFramework.runtimeconfig.dev.json
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.EntityFramework\bin\Release\netcoreapp2.2\MyBlog.EntityFramework.dll
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.EntityFramework\bin\Release\netcoreapp2.2\MyBlog.EntityFramework.pdb
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.EntityFramework\bin\Release\netcoreapp2.2\MyBlog.Domain.dll
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.EntityFramework\bin\Release\netcoreapp2.2\MyBlog.Domain.pdb
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.EntityFramework\obj\Release\netcoreapp2.2\MyBlog.EntityFramework.csproj.AssemblyReference.cache
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.EntityFramework\obj\Release\netcoreapp2.2\MyBlog.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.EntityFramework\obj\Release\netcoreapp2.2\MyBlog.EntityFramework.AssemblyInfo.cs
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.EntityFramework\obj\Release\netcoreapp2.2\MyBlog.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.EntityFramework\obj\Release\netcoreapp2.2\MyBlog.EntityFramework.csproj.CopyComplete
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.EntityFramework\obj\Release\netcoreapp2.2\MyBlog.EntityFramework.dll
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.EntityFramework\obj\Release\netcoreapp2.2\MyBlog.EntityFramework.pdb
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.EntityFramework\obj\Release\netcoreapp2.2\MyBlog.EntityFramework.genruntimeconfig.cache

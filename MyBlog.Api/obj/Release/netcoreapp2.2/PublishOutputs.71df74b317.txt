@@ -1,0 +1,23 @@
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.Api\obj\Release\netcoreapp2.2\PubTmp\Out\wwwroot\assets\images\LSP.jpg
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.Api\obj\Release\netcoreapp2.2\PubTmp\Out\wwwroot\assets\images\ng-jest-cucumber.png
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.Api\obj\Release\netcoreapp2.2\PubTmp\Out\wwwroot\assets\images\Thumbnail LSP.jpg
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.Api\obj\Release\netcoreapp2.2\PubTmp\Out\wwwroot\assets\images\thumbnail ng-jest-cucumber.png
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.Api\obj\Release\netcoreapp2.2\PubTmp\Out\appsettings.Development.json
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.Api\obj\Release\netcoreapp2.2\PubTmp\Out\appsettings.json
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.Api\obj\Release\netcoreapp2.2\PubTmp\Out\appsettings.Production.json
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.Api\obj\Release\netcoreapp2.2\PubTmp\Out\MyBlog.Api.dll
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.Api\obj\Release\netcoreapp2.2\PubTmp\Out\MyBlog.Api.deps.json
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.Api\obj\Release\netcoreapp2.2\PubTmp\Out\MyBlog.Api.runtimeconfig.json
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.Api\obj\Release\netcoreapp2.2\PubTmp\Out\MyBlog.Api.pdb
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.Api\obj\Release\netcoreapp2.2\PubTmp\Out\Castle.Core.dll
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.Api\obj\Release\netcoreapp2.2\PubTmp\Out\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.Api\obj\Release\netcoreapp2.2\PubTmp\Out\SimpleInjector.dll
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.Api\obj\Release\netcoreapp2.2\PubTmp\Out\SimpleInjector.Integration.AspNetCore.dll
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.Api\obj\Release\netcoreapp2.2\PubTmp\Out\SimpleInjector.Integration.AspNetCore.Mvc.dll
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.Api\obj\Release\netcoreapp2.2\PubTmp\Out\SimpleInjector.Integration.AspNetCore.Mvc.Core.dll
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.Api\obj\Release\netcoreapp2.2\PubTmp\Out\MyBlog.CommandQuery.dll
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.Api\obj\Release\netcoreapp2.2\PubTmp\Out\MyBlog.Domain.dll
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.Api\obj\Release\netcoreapp2.2\PubTmp\Out\MyBlog.EntityFramework.dll
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.Api\obj\Release\netcoreapp2.2\PubTmp\Out\MyBlog.CommandQuery.pdb
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.Api\obj\Release\netcoreapp2.2\PubTmp\Out\MyBlog.EntityFramework.pdb
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.Api\obj\Release\netcoreapp2.2\PubTmp\Out\MyBlog.Domain.pdb

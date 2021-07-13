@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyBlog.Api", "MyBlog.Api\MyBlog.Api.csproj", "{88F4933D-698E-445D-92C2-C6FED8F83837}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyBlog.Domain", "MyBlog.Domain\MyBlog.Domain.csproj", "{FC6AFF51-307D-4709-8872-DB1B142ECC57}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyBlog.EntityFramework", "MyBlog.EntityFramework\MyBlog.EntityFramework.csproj", "{7107A053-71A2-4B7F-B98F-83A55D0E2CB9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyBlog.CommandQuery", "MyBlog.CommandQuery\MyBlog.CommandQuery.csproj", "{4B52810C-E4F3-4BFB-90C6-28D4BF4A4490}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBog.Specs", "MyBog.Specs\MyBog.Specs.csproj", "{E6AB2AA4-FA36-4399-93C1-E6ED32000CDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88F4933D-698E-445D-92C2-C6FED8F83837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88F4933D-698E-445D-92C2-C6FED8F83837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88F4933D-698E-445D-92C2-C6FED8F83837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88F4933D-698E-445D-92C2-C6FED8F83837}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC6AFF51-307D-4709-8872-DB1B142ECC57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC6AFF51-307D-4709-8872-DB1B142ECC57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC6AFF51-307D-4709-8872-DB1B142ECC57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC6AFF51-307D-4709-8872-DB1B142ECC57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7107A053-71A2-4B7F-B98F-83A55D0E2CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7107A053-71A2-4B7F-B98F-83A55D0E2CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7107A053-71A2-4B7F-B98F-83A55D0E2CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7107A053-71A2-4B7F-B98F-83A55D0E2CB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B52810C-E4F3-4BFB-90C6-28D4BF4A4490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B52810C-E4F3-4BFB-90C6-28D4BF4A4490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B52810C-E4F3-4BFB-90C6-28D4BF4A4490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B52810C-E4F3-4BFB-90C6-28D4BF4A4490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6AB2AA4-FA36-4399-93C1-E6ED32000CDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6AB2AA4-FA36-4399-93C1-E6ED32000CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6AB2AA4-FA36-4399-93C1-E6ED32000CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6AB2AA4-FA36-4399-93C1-E6ED32000CDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01A326AA-3924-42AB-8846-3B1F600B7C87}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://viqashussain.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = MyBlog.Api\\MyBlog.Api.csproj
+		SccProjectName1 = MyBlog.Api
+		SccLocalPath1 = MyBlog.Api
+		SccProjectUniqueName2 = MyBlog.Domain\\MyBlog.Domain.csproj
+		SccProjectName2 = MyBlog.Domain
+		SccLocalPath2 = MyBlog.Domain
+		SccProjectUniqueName3 = MyBlog.EntityFramework\\MyBlog.EntityFramework.csproj
+		SccProjectName3 = MyBlog.EntityFramework
+		SccLocalPath3 = MyBlog.EntityFramework
+		SccProjectUniqueName4 = MyBlog.CommandQuery\\MyBlog.CommandQuery.csproj
+		SccProjectName4 = MyBlog.CommandQuery
+		SccLocalPath4 = MyBlog.CommandQuery
+		SccProjectUniqueName5 = MyBog.Specs\\MyBog.Specs.csproj
+		SccProjectName5 = MyBog.Specs
+		SccLocalPath5 = MyBog.Specs
+	EndGlobalSection
+EndGlobal

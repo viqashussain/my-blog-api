@@ -1,0 +1,14 @@
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.CommandQuery\bin\Release\netcoreapp2.2\MyBlog.CommandQuery.deps.json
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.CommandQuery\bin\Release\netcoreapp2.2\MyBlog.CommandQuery.dll
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.CommandQuery\bin\Release\netcoreapp2.2\MyBlog.CommandQuery.pdb
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.CommandQuery\bin\Release\netcoreapp2.2\MyBlog.Domain.dll
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.CommandQuery\bin\Release\netcoreapp2.2\MyBlog.EntityFramework.dll
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.CommandQuery\bin\Release\netcoreapp2.2\MyBlog.EntityFramework.pdb
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.CommandQuery\bin\Release\netcoreapp2.2\MyBlog.Domain.pdb
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.CommandQuery\obj\Release\netcoreapp2.2\MyBlog.CommandQuery.csproj.AssemblyReference.cache
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.CommandQuery\obj\Release\netcoreapp2.2\MyBlog.CommandQuery.AssemblyInfoInputs.cache
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.CommandQuery\obj\Release\netcoreapp2.2\MyBlog.CommandQuery.AssemblyInfo.cs
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.CommandQuery\obj\Release\netcoreapp2.2\MyBlog.CommandQuery.csproj.CoreCompileInputs.cache
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.CommandQuery\obj\Release\netcoreapp2.2\MyBlog.CommandQuery.csproj.CopyComplete
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.CommandQuery\obj\Release\netcoreapp2.2\MyBlog.CommandQuery.dll
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.CommandQuery\obj\Release\netcoreapp2.2\MyBlog.CommandQuery.pdb

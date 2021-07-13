@@ -1,0 +1,9 @@
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.Domain\bin\Release\netcoreapp2.2\MyBlog.Domain.deps.json
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.Domain\bin\Release\netcoreapp2.2\MyBlog.Domain.dll
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.Domain\bin\Release\netcoreapp2.2\MyBlog.Domain.pdb
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.Domain\obj\Release\netcoreapp2.2\MyBlog.Domain.csproj.AssemblyReference.cache
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.Domain\obj\Release\netcoreapp2.2\MyBlog.Domain.AssemblyInfoInputs.cache
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.Domain\obj\Release\netcoreapp2.2\MyBlog.Domain.AssemblyInfo.cs
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.Domain\obj\Release\netcoreapp2.2\MyBlog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.Domain\obj\Release\netcoreapp2.2\MyBlog.Domain.dll
+C:\Users\viqas\Downloads\MyBlog2\MyBlog\MyBlog.Domain\obj\Release\netcoreapp2.2\MyBlog.Domain.pdb
